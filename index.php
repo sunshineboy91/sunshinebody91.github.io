@@ -1,3 +1,3 @@
 <?php
 
-echo 'git';
+echo 'GITHUB & WEB服务器';
