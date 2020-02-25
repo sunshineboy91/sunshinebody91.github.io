@@ -6,7 +6,7 @@ $secret = "lihuiyu";
 // Path to your respostory on your server.
 // e.g. "/var/www/respostory"
 // 修改地方2 项目地址
-$path = "/www/wwwroot/git.lihuiyu.com";
+$path = "/www/wwwroot/git.lihuiyu.top";
 
 // Headers deliveried from GitHub
 $signature = $_SERVER['HTTP_X_HUB_SIGNATURE'];
