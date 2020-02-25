@@ -1,5 +1,5 @@
 <?php
 
-echo 'GITHUB & WEB服务器';
+echo 'GITHUB & WEB服务器<br>';
 
-echo 'git ....o';
+echo 'git ....';
