@@ -13,7 +13,7 @@ echo 'GITHUB & WEB服务器<br>';
 </head>
 
 <body>
-    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatum, at. Deleniti totam neque tenetur recusandae sunt quas vel iusto autem et voluptatum, pariatur illum in possimus repudiandae hic quod id!
+    Lorem ipsum dolor sit, amet consectetur adipisicing elit.
 </body>
 
 </html>
